@@ -1,6 +1,13 @@
 # html_scraper
 
-A new Flutter project.
+universal_htmlのパッケージを用いて、まとめサイトから情報を取得し、リストとして表示するアプリケーション
+複数追加は未対応
+■今後の追加機能（予定）
+・複数サイトの対応
+・Mysqlなどのデータベースに保存
+・タブによる画面遷移
+・追加サイトの管理
+
 
 ## Getting Started
 
